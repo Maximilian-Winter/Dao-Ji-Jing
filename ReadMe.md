@@ -1,5 +1,5 @@
 ## 道機經 - The Dao Ji Jing
-### A Reconstruction of Ancient Strategic Wisdom
+### A Reconstruction of Ancient Strategic Wisdom - Written With AI(Large Language Models)
 
 ![Cover](cover.png)
 
@@ -7,7 +7,7 @@
 
 ## 📜 About This Text
 
-The **Dao Ji Jing** (道機經) - "Scripture of the Dao's Mechanism" - represents a reconstruction of an ancient Chinese strategic text that was lost to history. Unlike the famous *Dao De Jing* which focuses on virtue and non-action, the *Dao Ji Jing* reveals the precise mechanisms through which the Dao operates in strategic affairs.
+The **Dao Ji Jing** (道機經) - "Scripture of the Dao's Mechanism" - represents a reconstruction of an ancient Chinese strategic text that was lost to history. Unlike the famous *Dao De Jing* which focuses on virtue and non-action, the *Dao Ji Jing* reveals the precise mechanisms through which the Dao operates in strategic affairs. It was written With AI(Large Language Models)
 
 This work explores the **Five Mechanisms** (五機) corresponding to the Five Elements:
 - **金機 (Metal)** - The mechanism of discernment and clarity
