@@ -1,5 +1,5 @@
 ## 道機經 - The Dao Ji Jing
-### A Reconstruction of Ancient Strategic Wisdom - Written With AI(Large Language Models)
+### A Fictional AI-Generated Reimagining of Lost Daoist Strategic Wisdom
 
 ![Cover](cover.png)
 
@@ -7,7 +7,9 @@
 
 ## 📜 About This Text
 
-The **Dao Ji Jing** (道機經) - "Scripture of the Dao's Mechanism" - represents a reconstruction of an ancient Chinese strategic text that was lost to history. Unlike the famous *Dao De Jing* which focuses on virtue and non-action, the *Dao Ji Jing* reveals the precise mechanisms through which the Dao operates in strategic affairs. It was written With AI(Large Language Models)
+The **Dao Ji Jing** (道機經), "Scripture of the Dao's Mechanism," is a **fictional work created with large language models**. It was inspired by the title of a historical text mentioned by Ge Hong, but it is **not a translation, scholarly reconstruction, or recovery of that lost work**. Its five-volume structure, Five Mechanisms, verses, commentaries, and modern applications were generated through repeated AI conversations, particularly through a Jiutian Xuannü persona.
+
+This project preserves that creative process—including early misunderstandings that entered the generated text—while clearly separating the fictional work from the historical evidence reproduced below.
 
 This work explores the **Five Mechanisms** (五機) corresponding to the Five Elements:
 - **金機 (Metal)** - The mechanism of discernment and clarity
@@ -21,7 +23,7 @@ This work explores the **Five Mechanisms** (五機) corresponding to the Five El
 ## 🎯 What You'll Find Here
 
 ### Strategic Wisdom for Modern Times
-This ancient framework provides practical guidance for:
+This fictional framework provides practical guidance for:
 - **Leadership & Decision-Making** - Clear discernment and balanced judgment
 - **Innovation & Growth** - Sustainable development and breakthrough thinking
 - **Adaptation & Change** - Flowing with circumstances while maintaining direction
@@ -102,9 +104,11 @@ This is a living document that benefits from community engagement:
 ## 📚 Background
 
 ### Historical Context
-According to records by Ge Hong (葛洪), the original *Dao Ji Jing* was attributed to Jun Xi (君喜) and consisted of five volumes corresponding to the Five Elements. While the complete text was lost over the centuries, fragments and transmissions preserved its essential wisdom.
+Ge Hong (葛洪) mentions a work called the *Dao Ji Jing* in the *Baopuzi*. He reports that Daoists of his time attributed it to Yin Xi (尹喜), but rejects that attribution and identifies its author as Wang Tu (王圖), a military commander of the Wei period. Ge Hong describes Wang Tu's work as concerned with qi circulation and bedchamber methods and condemns it as seriously misleading. The surviving passage does **not** describe the five-volume Wuxing structure or strategic contents created in this repository.
 
-Baopuzi Original mentioning:
+This project began before I had read Ge Hong's original passage. I was working from a secondary video description that supplied an incorrect attribution and suggested a five-volume structure. Those ideas entered the AI-generated work and are retained as part of its creative history, not as historical claims. The complete source passage is reproduced below so readers can compare the historical reference with the fictional reimagining.
+
+### Original *Baopuzi* passage mentioning the *Dao Ji Jing*
 ```
 抱朴子内篇卷之四
 金丹
@@ -115,10 +119,13 @@ Baopuzi Original mentioning:
 ```
 
 
-### Reconstruction Method
-This reconstruction draws from:
+### Creation Method
+This fictional reimagining was generated through repeated conversations with large language models. It draws creatively from:
 - Classical Chinese strategic texts
 - Daoist philosophical principles
 - Five Element theory and applications
 - Traditional Chinese strategic thinking
 - Modern systems theory and complexity science
+- A Jiutian Xuannü persona used as a creative voice
+
+The resulting Chinese and English text is AI-generated and has not been established as historically authentic. References to Jun Xi, a five-volume ancient transmission, and the specific Five Mechanisms belong to the fictional reconstruction rather than to Ge Hong's surviving account.
